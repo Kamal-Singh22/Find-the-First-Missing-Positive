@@ -5,4 +5,4 @@ We try to place each number in its correct position: for number x, we want it at
 
 After rearranging, we scan the array again to find the first position i such that nums[i] != i + 1. That’s the missing number.
 
-This approach ensures O(n) time and uses only constant space.
+This approach ensures O(n) time and uses only constant space.....
